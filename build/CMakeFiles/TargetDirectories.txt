@@ -1,0 +1,5 @@
+/home/jackson/OneDrive/COMP2004/new_assignment/assignment/build/CMakeFiles/rebuild_cache.dir
+/home/jackson/OneDrive/COMP2004/new_assignment/assignment/build/CMakeFiles/assignment__game.dir
+/home/jackson/OneDrive/COMP2004/new_assignment/assignment/build/CMakeFiles/edit_cache.dir
+/home/jackson/OneDrive/COMP2004/new_assignment/assignment/build/CMakeFiles/GLAD.dir
+/home/jackson/OneDrive/COMP2004/new_assignment/assignment/build/CMakeFiles/STB_IMAGE.dir

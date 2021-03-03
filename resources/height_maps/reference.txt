@@ -1,0 +1,5 @@
+heightmap produced from random area at https://terrain.party/
+
+terrain.party uses OpenStreetMap
+© OpenStreetMap contributors
+https://www.openstreetmap.org/copyright

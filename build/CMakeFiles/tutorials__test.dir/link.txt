@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -g -Wall  -rdynamic CMakeFiles/tutorials__test.dir/src/tutorials/test/test.cpp.o  -o bin/tutorials/tutorials__test   -L/home/jackson/OneDrive/COMP2004/assignment/lib  -Wl,-rpath,/home/jackson/OneDrive/COMP2004/assignment/lib -lglfw -lX11 -lXrandr -lXinerama -lXi -lXxf86vm -lXcursor -lGL -ldl -lpthread -lassimp libSTB_IMAGE.a libGLAD.a  -ldl

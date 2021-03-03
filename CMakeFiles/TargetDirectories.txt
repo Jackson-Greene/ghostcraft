@@ -1,0 +1,5 @@
+/home/jackson/OneDrive/COMP2004/assignment/CMakeFiles/rebuild_cache.dir
+/home/jackson/OneDrive/COMP2004/assignment/CMakeFiles/tutorials__test.dir
+/home/jackson/OneDrive/COMP2004/assignment/CMakeFiles/edit_cache.dir
+/home/jackson/OneDrive/COMP2004/assignment/CMakeFiles/GLAD.dir
+/home/jackson/OneDrive/COMP2004/assignment/CMakeFiles/STB_IMAGE.dir
